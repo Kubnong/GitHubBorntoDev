@@ -1,3 +1,1 @@
 # GitHubBorntoDev
-
-# Hello world
